@@ -10,11 +10,21 @@ The crowdsale contract that you create will manage the entire crowdsale process,
 
 #### Creating the KaseiCoin Token Contract
 
+<img src="images/image1.png" />
+
 #### Creating the KaseiCoin Crowdsale Contract
+
+<img src="images/image2.png" />
 
 #### Creating the the KaseiCoin Deployer Contract
 
+<img src="images/image3.png" />
+
 #### Deploying the Crowdsale to a Local Blockchain
+
+<img src="images/image4.png" />
+<img src="images/image5.png" />
+<img src="images/image6.png" />
 
 ### Instructions
 
